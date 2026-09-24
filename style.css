@@ -382,3 +382,6 @@ input::placeholder {
     }
 }
 
+
+/* Place the demo notice above the original layout. */
+body { flex-direction: column; gap: 12px; }
